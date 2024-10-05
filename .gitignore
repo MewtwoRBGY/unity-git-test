@@ -73,3 +73,11 @@ crashlytics-build.properties
 My project/Library/ArtifactDB-lock
 /My project/Library
 /My project/UserSettings
+/Temp
+/temp
+/obj
+/Obj
+/Build
+/build
+/logs
+/Logs
